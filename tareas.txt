@@ -1,0 +1,5 @@
+tareas = ["Comprar leche", "Estudiar Python", "Hacer ejercicio"]
+
+with open("tareas.txt", "w") as archivo:
+    for tarea in tareas:
+        archivo.write(tarea + "\n")Hacer tarea

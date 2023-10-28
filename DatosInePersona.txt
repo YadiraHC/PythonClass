@@ -1,0 +1,8 @@
+a_paterno : Hernandez
+a_maternoo: Cordova
+nombre: Yadira
+sexo: F
+domicilio: Bonfil
+clave_de_elector: HRCR
+curp: HECY030130MQRRRDA5
+fecha_de_nacimiento: 03/01/30
